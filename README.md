@@ -2,4 +2,4 @@ Assignment 1
 
 # Hi, I think I fixed my problem -Grace
 
-# [Thumb Up]
+# [Thumbs Up]
